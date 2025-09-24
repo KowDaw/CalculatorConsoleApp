@@ -133,10 +133,3 @@ function checkRemaining(a: number, b: number): number {
     }
     return a % b;
 }
-
-/*
-Calculator App
-
-Step 1: npm install readline-sync
-Step 2: npm install @types/readline-sync
-*/
