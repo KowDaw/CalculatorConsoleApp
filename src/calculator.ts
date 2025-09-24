@@ -1,4 +1,1 @@
-import readlineSync from "readline-sync";
-
-console.log("Calculator Application");
-
+console.log("App");

@@ -1,1 +1,7 @@
-console.log("enums.ts");
+enum PossibleInputs {
+    Number,
+    MathOperator,
+    YesOrNo
+}
+
+export { PossibleInputs };
